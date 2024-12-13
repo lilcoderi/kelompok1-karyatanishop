@@ -1,0 +1,24 @@
+TUTORIAL RUNNING KARYA TANI SHOP - KELOMPOK 1
+
+1. Buat database bernama karyatanishop, lalu import file sqlnya.
+
+2. Masuk ke project Laravel, lalu jalankan: php artisan serve
+
+3. Masuk ke https://karyatanishop.vercel.app, atau dengan mengaksesnya secara local pada https://github.com/lilcoderi/karyatanishop lalu masuk ke projectnya dan jalankan: npm run serve 
+
+4. Login:
+All role:
+email: email@gmail.com
+password: password123
+
+Admin:
+email: admin@gmail.com
+password: password123
+
+Kasir:
+email: kasir@gmail.com
+password: password123
+
+Customer:
+email: customer@gmail.com
+password: password123
