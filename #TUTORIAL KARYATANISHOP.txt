@@ -22,3 +22,7 @@ password: password123
 Customer:
 email: customer@gmail.com
 password: password123
+
+5. Halaman admin: https://karyatanishop.vercel.app/admin/dashboard-admin
+
+6. Halaman kasir: https://karyatanishop.vercel.app/kasir-view
