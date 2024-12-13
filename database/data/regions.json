@@ -1,0 +1,877 @@
+[
+    {
+        "id": 11,
+        "province": "Aceh (NAD)",
+        "cities": [
+            {
+                "name": "Banda Aceh",
+                "districts": [
+                    "Baiturrahman",
+                    "Meuraxa",
+                    "Kuta Alam"
+                ]
+            },
+            {
+                "name": "Langsa",
+                "districts": [
+                    "Langsa Barat",
+                    "Langsa Kota",
+                    "Langsa Timur"
+                ]
+            },
+            {
+                "name": "Lhokseumawe",
+                "districts": [
+                    "Blang Mangat",
+                    "Muara Satu",
+                    "Seunuddon",
+                    "Simpang Kiri"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "province": "Sumatera Utara",
+        "cities": [
+            {
+                "name": "Medan",
+                "districts": [
+                    "Medan Kota",
+                    "Medan Timur",
+                    "Medan Johor",
+                    "Medan Sunggal",
+                    "Medan Helvetia"
+                ]
+            },
+            {
+                "name": "Binjai",
+                "districts": [
+                    "Binjai Barat",
+                    "Binjai Kota",
+                    "Binjai Timur"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "province": "Sumatera Barat",
+        "cities": [
+            {
+                "name": "Padang",
+                "districts": [
+                    "Kuranji",
+                    "Lubuk Begalung",
+                    "Padang Utara",
+                    "Padang Barat"
+                ]
+            },
+            {
+                "name": "Bukittinggi",
+                "districts": [
+                    "Aur Birugo Tigo Baleh",
+                    "Mandiangin Koto Selayan",
+                    "Guguk Panjang"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "province": "Riau",
+        "cities": [
+            {
+                "name": "Pekanbaru",
+                "districts": [
+                    "Marpoyan Damai",
+                    "Rumbai",
+                    "Senapelan",
+                    "Sail",
+                    "Bukit Raya"
+                ]
+            },
+            {
+                "name": "Dumai",
+                "districts": [
+                    "Dumai Barat",
+                    "Dumai Timur",
+                    "Dumai Selatan"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "province": "Jambi",
+        "cities": [
+            {
+                "name": "Jambi",
+                "districts": [
+                    "Pelayangan",
+                    "Danau Sipin",
+                    "Jambi Selatan",
+                    "Jambi Timur"
+                ]
+            },
+            {
+                "name": "Sungai Penuh",
+                "districts": [
+                    "Sungai Penuh",
+                    "Kota Sungaipenuh",
+                    "Pesisir"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "province": "Sumatera Selatan",
+        "cities": [
+            {
+                "name": "Palembang",
+                "districts": [
+                    "Kertapati",
+                    "Ilir Barat",
+                    "Ilir Timur",
+                    "Sukarami",
+                    "Kemuning"
+                ]
+            },
+            {
+                "name": "Prabumulih",
+                "districts": [
+                    "Prabumulih Timur",
+                    "Prabumulih Barat"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "province": "Bengkulu",
+        "cities": [
+            {
+                "name": "Bengkulu",
+                "districts": [
+                    "Muara Bangkahulu",
+                    "Sumber Jaya",
+                    "Gading Cempaka"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "province": "Lampung",
+        "cities": [
+            {
+                "name": "Bandar Lampung",
+                "districts": [
+                    "Tanjung Karang Barat",
+                    "Tanjung Karang Timur",
+                    "Kedaton",
+                    "Way Halim"
+                ]
+            },
+            {
+                "name": "Metro",
+                "districts": [
+                    "Metro Pusat",
+                    "Metro Barat",
+                    "Metro Timur"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "province": "Kepulauan Bangka Belitung",
+        "cities": [
+            {
+                "name": "Pangkal Pinang",
+                "districts": [
+                    "Rangkui",
+                    "Bukit Intan",
+                    "Taman Sari"
+                ]
+            },
+            {
+                "name": "Bangka",
+                "districts": [
+                    "Sungailiat",
+                    "Merawang",
+                    "Pemali"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "province": "Kepulauan Riau",
+        "cities": [
+            {
+                "name": "Tanjung Pinang",
+                "districts": [
+                    "Tanjung Pinang Barat",
+                    "Tanjung Pinang Timur"
+                ]
+            },
+            {
+                "name": "Batam",
+                "districts": [
+                    "Batam Kota",
+                    "Sekupang",
+                    "Batu Aji"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "province": "DKI Jakarta",
+        "cities": [
+            {
+                "name": "Jakarta Pusat",
+                "districts": [
+                    "Gambir",
+                    "Menteng",
+                    "Tanah Abang",
+                    "Senen",
+                    "Cempaka Putih"
+                ]
+            },
+            {
+                "name": "Jakarta Selatan",
+                "districts": [
+                    "Cilandak",
+                    "Kebayoran Baru",
+                    "Mampang Prapatan",
+                    "Pancoran",
+                    "Jagakarsa"
+                ]
+            },
+            {
+                "name": "Jakarta Barat",
+                "districts": [
+                    "Kebon Jeruk",
+                    "Grogol Petamburan",
+                    "Palmerah",
+                    "Taman Sari"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "province": "Jawa Barat",
+        "cities": [
+            {
+                "name": "Bandung",
+                "districts": [
+                    "Cicendo",
+                    "Coblong",
+                    "Lengkong",
+                    "Regol",
+                    "Bojongsoang"
+                ]
+            },
+            {
+                "name": "Bogor",
+                "districts": [
+                    "Bogor Utara",
+                    "Bogor Timur",
+                    "Bogor Selatan",
+                    "Tanah Sareal"
+                ]
+            },
+            {
+                "name": "Bekasi",
+                "districts": [
+                    "Bekasi Selatan",
+                    "Bekasi Timur",
+                    "Bekasi Utara",
+                    "Medan Satria"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "province": "Jawa Tengah",
+        "cities": [
+            {
+                "name": "Semarang",
+                "districts": [
+                    "Semarang Barat",
+                    "Semarang Selatan",
+                    "Semarang Timur",
+                    "Semarang Utara"
+                ]
+            },
+            {
+                "name": "Surakarta (Solo)",
+                "districts": [
+                    "Laweyan",
+                    "Banjarsari",
+                    "Serengan",
+                    "Pasar Kliwon"
+                ]
+            },
+            {
+                "name": "Salatiga",
+                "districts": [
+                    "Sidorejo",
+                    "Argomulyo",
+                    "Tingkir"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "province": "DI Yogyakarta",
+        "cities": [
+            {
+                "name": "Yogyakarta",
+                "districts": [
+                    "Mantrijeron",
+                    "Ngampilan",
+                    "Danurejan",
+                    "Kraton",
+                    "Gondomanan"
+                ]
+            },
+            {
+                "name": "Sleman",
+                "districts": [
+                    "Ngaglik",
+                    "Turi",
+                    "Minggir",
+                    "Seyegan",
+                    "Prambanan"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "province": "Jawa Timur",
+        "cities": [
+            {
+                "name": "Surabaya",
+                "districts": [
+                    "Gubeng",
+                    "Wonokromo",
+                    "Tegalsari",
+                    "Rungkut",
+                    "Mulyorejo"
+                ]
+            },
+            {
+                "name": "Malang",
+                "districts": [
+                    "Klojen",
+                    "Lowokwaru",
+                    "Sukun",
+                    "Blimbing"
+                ]
+            },
+            {
+                "name": "Batu",
+                "districts": [
+                    "Batu",
+                    "Junrejo",
+                    "Batu Selatan"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "province": "Banten",
+        "cities": [
+            {
+                "name": "Serang",
+                "districts": [
+                    "Serang Kota",
+                    "Cipocok Jaya",
+                    "Kasemen",
+                    "Curug"
+                ]
+            },
+            {
+                "name": "Tangerang",
+                "districts": [
+                    "Cikupa",
+                    "Balaraja",
+                    "Curug",
+                    "Panongan",
+                    "Tigaraksa"
+                ]
+            },
+            {
+                "name": "Cilegon",
+                "districts": [
+                    "Cilegon Barat",
+                    "Cilegon Timur",
+                    "Ciwandan"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "province": "Bali",
+        "cities": [
+            {
+                "name": "Denpasar",
+                "districts": [
+                    "Denpasar Barat",
+                    "Denpasar Selatan",
+                    "Denpasar Utara",
+                    "Denpasar Timur"
+                ]
+            },
+            {
+                "name": "Badung",
+                "districts": [
+                    "Kuta",
+                    "Seminyak",
+                    "Mengwi",
+                    "Petang"
+                ]
+            },
+            {
+                "name": "Gianyar",
+                "districts": [
+                    "Ubud",
+                    "Sukawati",
+                    "Gianyar",
+                    "Blahbatuh"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "province": "Nusa Tenggara Barat",
+        "cities": [
+            {
+                "name": "Mataram",
+                "districts": [
+                    "Ampenan",
+                    "Cakranegara",
+                    "Sekarbela",
+                    "Sandubaya"
+                ]
+            },
+            {
+                "name": "Lombok Barat",
+                "districts": [
+                    "Gerung",
+                    "Sekotong",
+                    "Narmada",
+                    "Lingsar"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "province": "Nusa Tenggara Timur",
+        "cities": [
+            {
+                "name": "Kupang",
+                "districts": [
+                    "Kota Kupang",
+                    "Kelapa Lima",
+                    "Alak",
+                    "Kota Raja"
+                ]
+            },
+            {
+                "name": "Ruteng",
+                "districts": [
+                    "Ruteng",
+                    "Cibal",
+                    "Cibal Barat"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "province": "Kalimantan Barat",
+        "cities": [
+            {
+                "name": "Pontianak",
+                "districts": [
+                    "Pontianak Selatan",
+                    "Pontianak Barat",
+                    "Pontianak Timur",
+                    "Pontianak Utara"
+                ]
+            },
+            {
+                "name": "Singkawang",
+                "districts": [
+                    "Singkawang Barat",
+                    "Singkawang Tengah",
+                    "Singkawang Selatan"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "province": "Kalimantan Tengah",
+        "cities": [
+            {
+                "name": "Palangka Raya",
+                "districts": [
+                    "Pahandut",
+                    "Bukit Batu",
+                    "Sebangau"
+                ]
+            },
+            {
+                "name": "Sampit",
+                "districts": [
+                    "Mentawa Baru",
+                    "Seranau",
+                    "Sampit Kota"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "province": "Kalimantan Selatan",
+        "cities": [
+            {
+                "name": "Banjarmasin",
+                "districts": [
+                    "Banjarmasin Tengah",
+                    "Banjarmasin Timur",
+                    "Banjarmasin Selatan",
+                    "Banjarmasin Utara"
+                ]
+            },
+            {
+                "name": "Banjarbaru",
+                "districts": [
+                    "Banjarbaru Selatan",
+                    "Banjarbaru Utara",
+                    "Cempaka"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "province": "Kalimantan Timur",
+        "cities": [
+            {
+                "name": "Samarinda",
+                "districts": [
+                    "Samarinda Utara",
+                    "Samarinda Ilir",
+                    "Samarinda Seberang",
+                    "Samarinda Kota"
+                ]
+            },
+            {
+                "name": "Balikpapan",
+                "districts": [
+                    "Balikpapan Barat",
+                    "Balikpapan Timur",
+                    "Balikpapan Selatan",
+                    "Balikpapan Utara"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "province": "Kalimantan Utara",
+        "cities": [
+            {
+                "name": "Tanjung Selor",
+                "districts": [
+                    "Tanjung Selor Kota",
+                    "Tanjung Palas"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "province": "Sulawesi Utara",
+        "cities": [
+            {
+                "name": "Manado",
+                "districts": [
+                    "Sario",
+                    "Wanea",
+                    "Paal Dua",
+                    "Malalayang"
+                ]
+            },
+            {
+                "name": "Tomohon",
+                "districts": [
+                    "Tomohon Selatan",
+                    "Tomohon Tengah",
+                    "Tomohon Utara"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "province": "Sulawesi Tengah",
+        "cities": [
+            {
+                "name": "Palu",
+                "districts": [
+                    "Palu Selatan",
+                    "Palu Barat",
+                    "Palu Utara",
+                    "Palu Timur"
+                ]
+            },
+            {
+                "name": "Donggala",
+                "districts": [
+                    "Donggala Barat",
+                    "Donggala Utara",
+                    "Donggala Tengah"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "province": "Sulawesi Selatan",
+        "cities": [
+            {
+                "name": "Makassar",
+                "districts": [
+                    "Tamalanrea",
+                    "Biringkanaya",
+                    "Manggala",
+                    "Ujung Pandang"
+                ]
+            },
+            {
+                "name": "Palopo",
+                "districts": [
+                    "Palopo Kota",
+                    "Telluwanua",
+                    "Baturi"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "province": "Sulawesi Tenggara",
+        "cities": [
+            {
+                "name": "Kendari",
+                "districts": [
+                    "Kendari Barat",
+                    "Kendari Selatan",
+                    "Kendari Utara",
+                    "Kendari Timur"
+                ]
+            },
+            {
+                "name": "Baubau",
+                "districts": [
+                    "Baubau Kota",
+                    "Betoambari",
+                    "Kokalukuna"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "province": "Gorontalo",
+        "cities": [
+            {
+                "name": "Gorontalo",
+                "districts": [
+                    "Gorontalo Kota",
+                    "Dumbo Raya",
+                    "Gorontalo Utara"
+                ]
+            },
+            {
+                "name": "Boalemo",
+                "districts": [
+                    "Boalemo Kota",
+                    "Kwandang"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "province": "Sulawesi Barat",
+        "cities": [
+            {
+                "name": "Mamuju",
+                "districts": [
+                    "Mamuju Kota",
+                    "Mamuju Utara",
+                    "Mamuju Selatan"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "province": "Maluku",
+        "cities": [
+            {
+                "name": "Ambon",
+                "districts": [
+                    "Ambon Kota",
+                    "Sirimau",
+                    "Baguala"
+                ]
+            },
+            {
+                "name": "Tual",
+                "districts": [
+                    "Tual Kota",
+                    "Dullah Selatan"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "province": "Maluku Utara",
+        "cities": [
+            {
+                "name": "Ternate",
+                "districts": [
+                    "Ternate Selatan",
+                    "Ternate Utara",
+                    "Ternate Tengah"
+                ]
+            },
+            {
+                "name": "Tidore Kepulauan",
+                "districts": [
+                    "Tidore",
+                    "Tidore Selatan",
+                    "Tidore Utara"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "province": "Papua",
+        "cities": [
+            {
+                "name": "Jayapura",
+                "districts": [
+                    "Jayapura Kota",
+                    "Abepura",
+                    "Heram"
+                ]
+            },
+            {
+                "name": "Merauke",
+                "districts": [
+                    "Merauke Kota",
+                    "Tanah Miring",
+                    "Kurik"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "province": "Papua Barat",
+        "cities": [
+            {
+                "name": "Manokwari",
+                "districts": [
+                    "Manokwari Kota",
+                    "Prafi",
+                    "Darmaga"
+                ]
+            },
+            {
+                "name": "Sorong",
+                "districts": [
+                    "Sorong Kota",
+                    "Sorong Selatan",
+                    "Sorong Utara"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "province": "Papua Selatan",
+        "cities": [
+            {
+                "name": "Merauke",
+                "districts": [
+                    "Merauke Kota",
+                    "Tanah Miring",
+                    "Kurik"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "province": "Papua Tengah",
+        "cities": [
+            {
+                "name": "Paniai",
+                "districts": [
+                    "Paniai Kota",
+                    "Mamberamo Tengah"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "province": "Papua Pegunungan",
+        "cities": [
+            {
+                "name": "Wamena",
+                "districts": [
+                    "Wamena Kota",
+                    "Asmat",
+                    "Lanny Jaya"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "province": "Papua Barat Daya",
+        "cities": [
+            {
+                "name": "Kaimana",
+                "districts": [
+                    "Kaimana Kota",
+                    "Yoboi",
+                    "Fakfak"
+                ]
+            }
+        ]
+    }
+]
